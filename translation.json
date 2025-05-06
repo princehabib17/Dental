@@ -1,0 +1,358 @@
+{
+  "site": {
+    "name": "Arevalo Dental Clinic"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "doctors": "Doctors",
+    "contact": "Contact",
+    "bookAppointment": "Book Appointment",
+    "searchPlaceholder": "Search for services or doctors..."
+  },
+  "hero": {
+    "tagline": "AREVALO DENTAL CLINIC",
+    "titleHighlight": "Transforming Smiles",
+    "titleRest": "In the Heart of Saudi Arabia",
+    "subtitle": "With a clientele composed of Saudis, Bahrainis, and Qataris, we've established ourselves as a dental clinic of international standards, proudly providing quality general and cosmetic dental care.",
+    "bookAppointment": "Make an Appointment",
+    "callUs": "Contact Us",
+    "scrollDown": "Our Services",
+    "card1Title": "Modern Facilities",
+    "card1Text": "Latest dental technology",
+    "card2Title": "Expert Dentists",
+    "card2Text": "Specialist team of dentists",
+    "cardDentalImplants": "Dental Implants",
+    "cardTeethWhitening": "Teeth Whitening",
+    "modernEquipment": "Modern Equipment",
+    "latestTechnology": "Latest dental technology",
+    "expertDentists": "Expert Dentists",
+    "yearsExperience": "Over 30 years experience",
+    "internationalStandards": "International Standards",
+    "philArabQuality": "Philippine-Arabian quality",
+    "dentalSpecialists": "Our Dental Specialists",
+    "meetTeam": "Meet our team of highly qualified dentists with expertise in all fields of dentistry",
+    "viewAll": "View All",
+    "imageAlt": "Modern dental clinic with state-of-the-art equipment"
+  },
+  "trust": {
+    "experts": {
+      "title": "Expert Doctors",
+      "description": "25+ specialists"
+    },
+    "booking": {
+      "title": "Easy Booking",
+      "description": "Online appointments"
+    },
+    "facilities": {
+      "title": "Modern Facilities",
+      "description": "State-of-art equipment"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Always available"
+    }
+  },
+  "services": {
+    "title": "Our Dental Services",
+    "subtitle": "Comprehensive dental care provided by our experienced dental professionals in Makati, Philippines.",
+    "viewAll": "View All Services",
+    "learnMore": "Learn More",
+    "crowns": {
+      "title": "Crowns",
+      "description": "We offer restoration and enhancement to misshapen, chipped, and damaged teeth. Select from metal, porcelain-infused metal, porcelain, ceramic, and resin crowns, depending on your needs and preferences."
+    },
+    "veneers": {
+      "title": "Veneers",
+      "description": "In need of a thin new layer to improve or restore the appearance of your tooth? Set an appointment with us and get a consultation, fitting, and installment of veneers for your desired pearly-whites."
+    },
+    "rootcanal": {
+      "title": "Endodontics (Root Canal)",
+      "description": "Arevalo Clinic also specializes in endodontic procedures, from non-surgical root canals to endodontic treatments. See a specialist at our clinic and we'll see what we can do to save your tooth."
+    },
+    "bonding": {
+      "title": "Bonds",
+      "description": "Arrange a single-session dental bonding procedure with us and have gaps between teeth filled out, repair a chipped tooth, and generally improve the condition of a tooth in one sitting."
+    },
+    "bridges": {
+      "title": "Bridges",
+      "description": "Replace missing teeth and ease biting difficulty with dental bridges. Call the clinic for a consultation and scheduling for the smile restoring procedure."
+    },
+    "whitening": {
+      "title": "Teeth Whitening",
+      "description": "Get back the confidence to flash your biggest smile with our tooth whitening services, from brushing and natural bleaching, to bleaching gel and laser bleaching."
+    },
+    "orthodontic": {
+      "title": "Orthodontic Treatment",
+      "description": "For those with concerns of malocclusion (overbites and underbites), and the proper positioning and alignment of their teeth and jaws, we offer orthodontic services to help eliminate discomfort and difficulty as well as to improve one's overall facial appearance."
+    },
+    "implants": {
+      "title": "Implants",
+      "description": "Bridges and dentures are not the only solutions to missing teeth. Dental implants are very much possible today, too, and Arevalo Dental Clinic is here to offer you tooth root replacements."
+    },
+    "overlay": {
+      "title": "Inlay/Onlay",
+      "description": "Is your tooth suffering from decay, but does not necessarily need a crown? Perhaps all you need are indirect fillings, such as inlays and onlays. Schedule an appointment with us and we'll see how we could treat your tooth."
+    },
+    "periodontics": {
+      "title": "Periodontics",
+      "description": "For those with more serious dental conditions such as gum bleeding and gingivitis, our experienced professionals are here to help you. Schedule an appointment with one of our dentists and we'll see the best way we could address your problem."
+    },
+    "oralsurgery": {
+      "title": "Oral Surgery",
+      "description": "From tooth extraction to jaw surgery, Arevalo Clinic offers you the best of our dental surgical facilities and services."
+    },
+    "dentures": {
+      "title": "Dentures",
+      "description": "Has a tooth been lost, or your teeth been removed? Visit us and we'll customize dentures for you."
+    },
+    "aesthetic": {
+      "title": "Aesthetic Dentistry",
+      "description": "Enhance your smile with our premium aesthetic dentistry services. From smile makeovers to cosmetic contouring, we create natural, beautiful results tailored for our Saudi clients."
+    },
+    "pediatric": {
+      "title": "Pediatric Dentistry",
+      "description": "We provide specialized dental care for children in a comfortable, friendly environment. Our pediatric services are perfect for families traveling together for dental treatment."
+    }
+  },
+  "doctors": {
+    "title": "Meet Our Team",
+    "subtitle": "Our team of experienced dentists is dedicated to providing you with the highest quality of dental care in Makati.",
+    "viewAll": "View All Dentists",
+    "bookAppointment": "Book Appointment",
+    "callNow": "Call Now",
+    "available": "Available Today",
+    "topRated": "Top Rated",
+    "tapForMore": "Tap for more information",
+    "specializations": "Specializations",
+    "languages": "Languages Spoken",
+    "doctor1": {
+      "name": "Dr. Daisy Miranda-Arevalo",
+      "specialty": "Cosmetic Dentist",
+      "position": "Head Dentist",
+      "credentials": "DMD, Fellow in Cosmetic Dentistry",
+      "bio": "Dr. Daisy Miranda-Arevalo has had over 30 years of dental practice. Dr. Arevalo stands at the forefront in offering quality dental services from the heart of Makati's Central Business District.",
+      "experience": "30+ Years",
+      "location": "Makati",
+      "reviewCount": "198",
+      "phone": "+639123456789",
+      "spec1": "Cosmetic Dentistry",
+      "spec2": "Implantology",
+      "spec3": "Orthodontics",
+      "lang1": "English",
+      "lang2": "Filipino",
+      "lang3": "Spanish"
+    },
+    "doctor2": {
+      "name": "Dr. Caroline Verceles-Arevalo",
+      "specialty": "Orthodontist",
+      "position": "Associate Dentist",
+      "credentials": "DMD, MS Orthodontics",
+      "bio": "Dr. Caroline specializes in orthodontics and aesthetic dentistry, providing patients with expert care for teeth alignment and cosmetic procedures. With her gentle approach and attention to detail, she ensures each patient achieves their ideal smile.",
+      "experience": "15+ Years",
+      "location": "Makati",
+      "reviewCount": "157",
+      "phone": "+639234567890",
+      "spec1": "Orthodontics",
+      "spec2": "Aesthetic Dentistry",
+      "spec3": "Pediatric Dentistry",
+      "lang1": "English",
+      "lang2": "Filipino",
+      "lang3": "Chinese"
+    },
+    "doctor3": {
+      "name": "Dr. Eloisa Tiongson",
+      "specialty": "Endodontist",
+      "position": "Associate Dentist",
+      "credentials": "DMD, Specialist in Endodontics",
+      "bio": "Dr. Eloisa is an expert in root canal therapy and endodontic procedures. Her precision and care in treating dental pulp issues have earned her a reputation for pain-free treatments and successful outcomes for even the most complex cases.",
+      "experience": "12+ Years",
+      "location": "Makati",
+      "reviewCount": "143",
+      "phone": "+639345678901",
+      "spec1": "Root Canal Therapy",
+      "spec2": "Endodontic Surgery",
+      "spec3": "Dental Trauma Management",
+      "lang1": "English",
+      "lang2": "Filipino",
+      "lang3": "Japanese"
+    }
+  },
+  "testimonials": {
+    "title": "Patient Testimonials",
+    "subtitle": "What our patients say about their experience with Arevalo Dental Clinic.",
+    "previous": "Previous testimonial",
+    "next": "Next testimonial",
+    "goToSlide": "Go to testimonial {number}",
+    "testimonial1": {
+      "quote": "Dr. Miranda-Arevalo transformed my smile with veneers that look completely natural. Her skill and attention to detail were impressive, and the entire team made me feel comfortable throughout the process. I travel from Saudi Arabia specifically for her dental care!",
+      "name": "Mohammed Al-Qassim",
+      "position": "Cosmetic Dentistry Patient",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    "testimonial2": {
+      "quote": "I was nervous about getting dental implants, but Dr. Caroline made the experience comfortable and painless. The clinic's modern equipment and professional staff exceeded my expectations. The implants feel just like my natural teeth!",
+      "name": "Fatima Al-Saud",
+      "position": "Dental Implant Patient",
+      "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    "testimonial3": {
+      "quote": "After experiencing severe tooth pain, Dr. Eloisa performed a root canal that was remarkably comfortable. The care I received was excellent, and the staff was attentive to my needs. I now recommend Arevalo Dental Clinic to all my colleagues back in Jeddah.",
+      "name": "Abdullah Al-Otaibi",
+      "position": "Endodontic Patient",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg"
+    }
+  },
+  "appointment": {
+    "title": "Book Your Appointment",
+    "subtitle": "Schedule a visit with our specialists. Our team will confirm your appointment within 24 hours.",
+    "callUs": "Call Us Directly",
+    "callInfo": "Available 24/7 for emergencies and from 8 AM to 8 PM for appointments.",
+    "visitUs": "Visit Us",
+    "locationInfo": "Conveniently located with ample parking and public transportation access.",
+    "formTitle": "Request an Appointment"
+  },
+  "form": {
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "date": "Preferred Date",
+    "department": "Department",
+    "departmentPlaceholder": "Select department",
+    "time": "Preferred Time",
+    "timePlaceholder": "Select time",
+    "timeOptions": {
+      "morning": "Morning (8AM - 12PM)",
+      "afternoon": "Afternoon (12PM - 4PM)",
+      "evening": "Evening (4PM - 8PM)"
+    },
+    "reason": "Reason for Visit",
+    "reasonPlaceholder": "Briefly describe your symptoms or reason for appointment",
+    "submit": "Submit Request",
+    "submitting": "Submitting...",
+    "validation": {
+      "nameRequired": "Full name is required",
+      "phoneRequired": "Valid phone number is required",
+      "emailValid": "Valid email address is required",
+      "dateRequired": "Please select a preferred date",
+      "departmentRequired": "Please select a department",
+      "timeRequired": "Please select a preferred time",
+      "reasonRequired": "Please provide a reason for your visit (min 10 characters)"
+    },
+    "success": {
+      "title": "Appointment Requested",
+      "message": "Your appointment request has been submitted successfully. We will contact you shortly to confirm."
+    },
+    "error": {
+      "title": "Submission Failed",
+      "message": "There was an error submitting your request. Please try again or contact us directly."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our dental services and facilities.",
+    "helpSection": "Help Center",
+    "searchPlaceholder": "Search for answers...",
+    "noResults": "No matching questions found",
+    "tryDifferentSearch": "Please try a different search term or browse all questions below.",
+    "appointment": {
+      "question": "How do I schedule a dental appointment?",
+      "answer": "You can schedule an appointment through our online booking system, by calling our clinic at +63 2 8123 4567, or by visiting Arevalo Dental Clinic in person. For new patients, we recommend calling to ensure we have all the necessary information to provide you with the best dental care."
+    },
+    "insurance": {
+      "question": "What dental insurance plans do you accept?",
+      "answer": "We accept most major dental insurance plans, both local and international. For our Arab Gulf patients, we work with multiple international insurers. Please contact our billing department or check our website for a complete list of accepted insurance providers. We recommend verifying your coverage before your appointment."
+    },
+    "firstVisit": {
+      "question": "What should I bring to my first dental appointment?",
+      "answer": "For your first visit, please bring your identification (passport for international patients), insurance information, a list of any medications you're currently taking, and any relevant previous dental records or X-rays. Arriving 15 minutes early to complete registration forms is also recommended."
+    },
+    "emergency": {
+      "question": "Do you offer emergency dental services?",
+      "answer": "Yes, we provide emergency dental care during our business hours. If you're experiencing severe dental pain, broken teeth, or other dental emergencies, please call us immediately at +63 2 8123 4567. We reserve time slots each day for emergency appointments."
+    },
+    "prescription": {
+      "question": "Can international patients get follow-up care in their home country?",
+      "answer": "Yes, we coordinate with dental professionals in Saudi Arabia and other Gulf countries to ensure continuity of care for our international patients. We provide detailed treatment records and can communicate directly with your local dentist to ensure proper follow-up care."
+    }
+  },
+  "contact": {
+    "addressTitle": "Visit Us",
+    "address": "6750 Ayala Avenue, Makati City, Philippines",
+    "phoneTitle": "Call Us",
+    "phone": "+63 2 8123 4567",
+    "emailTitle": "Email Us",
+    "email": "info@arevalodental.com",
+    "hoursTitle": "Working Hours",
+    "hours": "Mon-Sat: 9AM - 6PM"
+  },
+  "footer": {
+    "about": {
+      "title": "About Arevalo Dental Clinic",
+      "description": "Arevalo Dental Clinic is dedicated to providing exceptional dental care with compassion and expertise for both local and international patients."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "services": "Services",
+      "doctors": "Doctors",
+      "contact": "Contact"
+    },
+    "services": {
+      "title": "Our Services"
+    },
+    "contact": {
+      "title": "Contact Us"
+    },
+    "copyright": "© {year} Arevalo Dental Clinic. All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "sitemap": "Sitemap"
+  },
+  "servicesPage": {
+    "title": "Our Dental Services",
+    "subtitle": "Comprehensive, specialized care for all your dental needs in Makati",
+    "technology": {
+      "title": "Cutting-Edge Dental Technology",
+      "description1": "At Arevalo Dental Clinic, we invest in the latest dental technologies to ensure precise diagnoses and effective treatments for our patients.",
+      "description2": "Our state-of-the-art equipment allows our dental specialists to provide the highest standard of care in all dental specialties, ensuring your comfort and optimal results.",
+      "imageAlt": "Advanced dental equipment in Arevalo Dental Clinic",
+      "equipment1": "Digital intraoral scanner for impression-free procedures",
+      "equipment2": "Advanced digital panoramic X-ray system",
+      "equipment3": "Dental CAD/CAM technology for same-day restorations",
+      "equipment4": "Laser dentistry equipment for painless procedures",
+      "equipment5": "Composite LED light curing system for aesthetic restorations"
+    }
+  },
+  "doctorsPage": {
+    "title": "Our Dental Specialists",
+    "subtitle": "Meet our internationally trained dentists committed to your perfect smile",
+    "joinTeam": {
+      "title": "Join Our Dental Team",
+      "description": "We're always looking for talented and compassionate dental professionals to join our growing team at Arevalo Dental Clinic.",
+      "benefits": {
+        "title": "Why Join Us",
+        "benefit1": "State-of-the-art dental facilities",
+        "benefit2": "Collaborative work environment",
+        "benefit3": "Continuous professional development",
+        "benefit4": "Competitive compensation package"
+      },
+      "opportunities": {
+        "title": "Current Opportunities",
+        "opportunity1": "Dental Specialists (multiple areas)",
+        "opportunity2": "Dental Hygienists",
+        "opportunity3": "Dental Assistants",
+        "opportunity4": "Clinic Administration"
+      },
+      "contactUs": "Contact Our HR Department"
+    }
+  },
+  "contactPage": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help with all your dental care needs",
+    "mapTitle": "Arevalo Dental Clinic Location"
+  }
+}
